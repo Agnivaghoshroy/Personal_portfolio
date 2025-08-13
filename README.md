@@ -1,18 +1,17 @@
-# Agniva Ghosh Roy - Portfolio Website
+# Personal Portfolio Website
 
 ## 🚀 Overview
-This is a personal portfolio website for Agniva Ghosh Roy, built with HTML and CSS. It showcases skills, interests, education, projects, and contact information in a modern, interactive, and responsive design. The site is intended to highlight achievements and work for potential employers or clients.
+A modern, responsive portfolio website to showcase your skills, education, projects, and contact information. Built with HTML, CSS, and JavaScript.
 
-## 📄 Features
-- **Hero Section**: Name, animated subtitle, profile photo, and quick action buttons (Download CV, GitHub)
-- **About Me**: Brief introduction and background
-- **Skills & Interests**: Technical skills and personal interests
-- **Experience Timeline**: Educational history in a visual timeline
-- **Projects**: Project cards with images, descriptions, and GitHub links
-- **Contact Form**: Validated form for direct messages
-- **Direct Contact Buttons**: Email, phone, LinkedIn, GitHub
-- **Responsive Design**: Works on desktop and mobile
-- **Smooth Animations**: Section transitions and interactive effects
+## ✨ Features
+- Hero section with name, animated subtitle, and profile photo
+- About Me section
+- Skills & Interests
+- Experience timeline
+- Projects with images and GitHub links
+- Contact form with validation
+- Direct contact buttons (Email, Phone, LinkedIn, GitHub)
+- Responsive design and smooth animations
 
 ## 🛠️ Technologies Used
 - HTML5
@@ -21,28 +20,25 @@ This is a personal portfolio website for Agniva Ghosh Roy, built with HTML and C
 - Font Awesome (icons)
 - Google Fonts (Inter)
 
-## 📦 Installation & Usage
-1. **Clone or Download** this repository:
+## 📦 Getting Started
+1. Clone the repository:
    ```sh
    git clone <your-repo-url>
    ```
-2. **Open** the project folder in VS Code or your preferred editor.
-3. **Customize** your information:
-   - Replace profile photo (`image.jpg`)
-   - Update your name, skills, education, projects, and contact details in `index.html`
-   - Add your actual CV file and update the Download CV link
-4. **Open `index.html`** in your browser to view your portfolio.
+2. Open the folder in VS Code or your editor.
+3. Customize your info in `index.html` and `style.css`.
+4. Open `index.html` in your browser.
 
-## ✨ Customization
-- Change colors, fonts, and layout in `style.css`
-- Add more projects, skills, or sections as needed
-- Update contact links for your real email, phone, LinkedIn, and GitHub
+## 📝 Customization
+- Replace profile photo (`image.jpg`)
+- Update your name, skills, education, projects, and contact details
+- Add your actual CV and update the Download CV link
 
 ## 📬 Contact
-For any questions or collaboration, use the contact form on the website or reach out via the provided contact buttons.
+Use the contact form or the direct contact buttons on the site.
 
 ## 📝 License
-This project is for personal use and demonstration. Feel free to use and modify for your own portfolio.
+For personal use and demonstration. Feel free to modify for your own portfolio.
 
 ---
 
